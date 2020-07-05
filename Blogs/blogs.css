@@ -1,15 +1,7 @@
-body {
- background-image: url(https://nuwallpaperhd.info/wp-content/uploads/2018/01/Large-Desert-Nature-Wallpaper-Background-Image.jpg);
- background-attachment: fixed;
+body{
+    background-image: url(https://nuwallpaperhd.info/wp-content/uploads/2018/01/Large-Desert-Nature-Wallpaper-Background-Image.jpg);
+    background-attachment: fixed;
 }
-
-.header{
-padding: 60px;
-background: #1abc9c
-color: grey;
-
-}
-
 h1{
     font-family: 'Permanent Marker', cursive;
 font-size: 50pt;
@@ -28,10 +20,12 @@ color: black;
 -webkit-text-stroke-width: 2px;
 -webkit-text-stroke-color: black;
 }
-h3{
-    font-weight: 900;
-}
 
+.Description{
+    font-family: 'Merriweather', serif;
+
+font-size: 20pt;
+}
 .button1{
     background-color:white;
     color: black;
@@ -43,7 +37,7 @@ h3{
     margin: 4px 2px;
     cursor: pointer;
     position: absolute; 
-    top: 80%;
+    top: 55%;
     left: 50%; 
     height: 30px;
     width: 100px;
@@ -60,19 +54,43 @@ h3{
     margin: 4px 2px;
     cursor: pointer;
     position: absolute; 
-    top: 80%;
+    top: 55%;
     left: 40%;
     height: 30px;
     width: 100px; 
-    border-radius: 15px; 
-    
+    border-radius: 15px;  
 }
-
-.Description{
-    font-family: 'Merriweather', serif;
-
-font-size: 20pt;
+.button3{
+    background-color:white;
+    color: black;
+    padding: 32px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute; 
+    top: 70%;
+    left: 50%;
+    height: 30px;
+    width: 100px; 
+    border-radius: 15px;  
 }
-
-
-
+.button4{
+    background-color:white;
+    color: black;
+    padding: 32px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute; 
+    top: 70%;
+    left: 40%;
+    height: 30px;
+    width: 100px; 
+    border-radius: 15px;  
+}

@@ -1,0 +1,101 @@
+body {
+    background-image: url(https://nuwallpaperhd.info/wp-content/uploads/2018/01/Large-Desert-Nature-Wallpaper-Background-Image.jpg);
+    background-attachment: fixed;
+   }
+   
+   .header{
+   padding: 60px;
+   background: #1abc9c
+   color: grey;
+   
+   }
+   
+   h1{
+       font-family: 'Permanent Marker', cursive;
+   font-size: 50pt;
+   
+   color: black;
+   -webkit-text-fill-color: white;
+   -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: black;
+   
+   }
+   h2{
+       font-family: 'Luckiest Guy', cursive;
+   font-size: 30pt;
+   color: black;
+   -webkit-text-fill-color: white;
+   -webkit-text-stroke-width: 2px;
+   -webkit-text-stroke-color: black;
+   }
+   h3{
+       font-weight: 900;
+   }
+   h4{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 30pt;
+    
+    color: black;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+   }
+   h5{
+    font-family: 'Merriweather', serif;
+
+    font-size: 25pt; 
+    text-decoration: underline;
+
+
+   }
+   h6{
+    font-family: 'Merriweather', serif;
+
+    font-size: 25pt; 
+    text-decoration: underline;
+   }
+   h7{
+    font-family: 'Merriweather', serif;
+
+    font-size: 25pt; 
+    text-decoration: underline;
+   }
+   h8{
+    font-family: 'Merriweather', serif;
+
+    font-size: 25pt; 
+    text-decoration: underline;
+   }
+   h9{
+    font-family: 'Merriweather', serif;
+
+    font-size: 25pt; 
+    text-decoration: underline;
+   }
+   h10{
+    font-family: 'Merriweather', serif;
+
+    font-size: 25pt; 
+    text-decoration: underline;
+   }
+   h11{
+    font-family: 'Merriweather', serif;
+
+    font-size: 25pt; 
+    text-decoration: underline;
+   }
+
+
+   .img{
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       width: 50%;
+       margin-top: 50px;
+
+   }
+   .paragraph{
+    font-family: 'Merriweather', serif;
+
+    font-size: 15pt;
+   }
