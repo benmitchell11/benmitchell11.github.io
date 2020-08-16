@@ -164,3 +164,39 @@ font-size: 20pt;
     width: 100px; 
     border-radius: 15px;  
 }
+
+.button9{
+    background-color:white;
+    color: black;
+    padding: 32px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute; 
+    top: 115%;
+    left: 50%;
+    height: 30px;
+    width: 100px; 
+    border-radius: 15px;  
+}
+
+.button10{
+    background-color:white;
+    color: black;
+    padding: 32px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    position: absolute; 
+    top: 115%;
+    left: 40%;
+    height: 30px;
+    width: 100px; 
+    border-radius: 15px;  
+}
